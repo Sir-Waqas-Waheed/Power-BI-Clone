@@ -1,0 +1,10 @@
+/* Custom CSS */
+.circular-logo {
+  width: 40px; /* Set the desired width */
+  height: 40px; /* Set the desired height */
+  border-radius: 50%; /* Make the logo circular */
+}
+/* Navbar.css */
+.custom-navbar {
+  height: 70px; /* Set the desired height */
+}
